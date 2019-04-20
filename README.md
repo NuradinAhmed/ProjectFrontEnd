@@ -1,11 +1,5 @@
 # ProjectFrontEnd
 
-					What is a Component 
-A component controls a patch of screen real estate that we could call a view, and declares reusable UI building blocks for an application. 
-
-Components are essentially the building blocks of our application, they usually have an associated view which can be rendered in our application. 
-
-
 					CREATING A COMPONENT 
 	Components are made up of 3 parts: 
 
